@@ -1,0 +1,242 @@
+/* 
+	WPBB light style
+*/
+
+/* Used for most messages */
+
+/* <h1> heading 1 */
+#wpbb-h-1 {
+	font-size:24px;
+}
+
+/* Centers text */
+.wpbb-centered {
+	text-align:center;
+	padding-bottom:10px;
+}
+
+/* Bolds text */
+.wpbb-bold {
+	font-weight:bold;
+}
+
+/* Centers and bolds text */
+.wpbb-centered-bold {
+	text-align:center;
+	font-weight:bold;
+	padding-bottom:10px;
+}
+
+/* Change the forum title position and color of the slash (/) character here */
+h2.wpbb-forum-title {
+	text-align:center;
+	padding-bottom:10px;
+}
+
+/* Change the color of the forum title link here, boldness, etc */
+h2.wpbb-forum-title a {
+	font-weight:bold;
+	color:purple;
+}
+
+/* Links */
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color:#0066CC;
+}
+a:active {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+
+/* Defines the layout of all tables displayed on the front end */
+/* Credit to twentyelevens entry-content table as I used that as my table class when developing the plugin and and may use some styling or bare resemblance to it */
+.wpbb-table {
+	width:100%;
+	border: solid 0.1em;
+	border-color: #9E9E9E;
+	background-color:#F8F8F8;
+}
+
+.wpbb-table th {
+	color: #666;
+	font-size: 10px;
+	font-weight: 500;
+	letter-spacing: 0.1em;
+	line-height: 2.6em;
+	text-transform: uppercase;
+	padding: 0px 5px 0px 5px;
+	background-color:#EEEEEE;
+}
+
+/* The first td in the forum index table */
+#wpbb-forum-index-table-forum-td {
+	width: 550px;
+}
+
+.wpbb-table td {
+	border-top: 1px solid #ddd;
+	padding: 6px 10px 6px 5px;
+}
+
+/* The subforum table td on the view forum page */
+#wpbb-subforum-td {
+	min-width:300px;
+}
+
+/* The view profile page table */
+#wpbb-profile-table {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/* The table which displays name and avatar */
+#wpbb-profile-table-name-avatar {
+	text-align:center;
+	font-size:large;
+}
+
+/* Second table which displays profile stats: posts, website, sig, etc */
+#wpbb-profile-table-stats {
+	border: solid 0.1em;
+	border-color: #9E9E9E;
+	background-color:#F8F8F8;
+ 	margin-left:10px;
+}
+
+#wpbb-profile-table-stats th {
+	padding-left:5px;
+}
+
+#wpbb-profile-table-stats td {
+	text-align:center;
+	border-top: 1px solid #ddd;
+	padding: 6px 10px 6px 5px;
+}
+
+/* The textarea input field for the signature below the profile table */
+#wpbb-profile-signature {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+
+#wpbb-profile-signature textarea {
+	min-width:400px;
+	min-height:100px;
+	max-width: 400px;
+	max-height: 100px;
+}
+
+/* Credit to http://css.dzone.com/news/css-message-boxes-different-me /*
+/* Layout for the success and failure messages */
+.wpbb-message-success, .wpbb-message-failure, .wpbb-message-warning {
+	border: 1px solid;
+	margin: 10px 0px;
+	padding: 15px 10px 15px 50px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
+
+/* Success message background and font color */
+.wpbb-message-success {
+	color: #4F8A10;
+	background-color:#DFF2BF;
+	text-align:center;
+}
+
+/* Failure messsage background and font color */
+.wpbb-message-failure {
+	color: #D8000C;
+	background-color:#FFBABA;
+	text-align:center;
+}
+
+/* Warning message background and font color */
+.wpbb-message-warning {
+	color: #9F6000;
+	background-color: #FEEFB3;
+	text-align:center;
+}
+
+/* Search Bar */
+#wpbb-search {
+	float:right;
+}
+
+/* The create topic, create reply buttons on a forum or topic */
+.wpbb-topic-buttons {
+	float:right;
+	border:0;
+}
+
+/* Profile layout on a topic page */
+.wpbb-topic-profile {
+	text-align:center;
+	width: 100px;
+}
+
+/* The topic and post created date */
+.wpbb-topic-and-post-date {
+	text-align: right;
+}
+
+/* Topic and post content layout */
+.wpbb-topic-and-post-content {
+	min-height: 50px;
+	min-width: 500px;
+	white-space: pre-line;
+	text-align:left;
+}
+
+/* Any horizontal lines used */
+hr {
+	margin-top:auto;
+  	border: 0;
+  	width: auto;
+}
+
+/* The signature on a topic and post */
+.wpbb-topic-and-post-signature {
+	text-align:center;
+}
+
+/* The quick reply div at bottom of a topic */
+.wpbb-quick-reply {
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:100px;
+	text-align:center;
+}
+ 
+/* The textarea element used for the quick reply content - determines its width/height*/
+.wpbb-quick-reply textarea {
+	min-width:400px;
+	min-height:100px;
+	max-width: 400px;
+	max-height: 100px;
+}
+
+#wpbb-message-subject-date {
+	float:left;
+}
+
+/* The wpbb footer if enabled in settings */
+.wpbb-forum-footer {
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: x-small;
+	text-align:center;
+	padding: 20px 0px 20px 0px;
+}
+
+/* Used to create space between divs etc */
+.clear {
+	padding-bottom: 10px;
+	clear:both;
+}

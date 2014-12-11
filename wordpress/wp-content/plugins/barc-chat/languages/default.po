@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barc Chat\n"
+"POT-Creation-Date: 2013-09-09 12:24+0100\n"
+"PO-Revision-Date: 2013-09-09 12:24+0100\n"
+"Last-Translator: Martin Sudolsky <martin@sudolsky.com>\n"
+"Language-Team: Barc Inc. <info@barc.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../barc.php:133
+msgid "Barc Chat"
+msgstr ""
+
+#: ../barc.php:143 ../options.php:57
+msgid "Settings"
+msgstr ""
+
+#: ../barc.php:160
+msgid "An error occurred during the AJAX request, please try again later."
+msgstr ""
+
+#: ../barc.php:161
+msgid "Please select a page."
+msgstr ""
+
+#: ../options.php:7
+msgid "Need help? Give us a call:"
+msgstr ""
+
+#: ../options.php:16
+msgid ""
+"Barc is already on your page! Now you just need to verify your installation "
+"to gain complete control, as well as additional features and benefits as the "
+"account owner."
+msgstr ""
+
+#: ../options.php:17
+msgid "<b>Enter</b> your username:"
+msgstr ""
+
+#: ../options.php:18
+msgid "Your Barc username"
+msgstr ""
+
+#: ../options.php:19
+msgid "Verify"
+msgstr ""
+
+#: ../options.php:19
+msgid "or"
+msgstr ""
+
+#: ../options.php:19
+msgid "Sign Up"
+msgstr ""
+
+#: ../options.php:19
+msgid "now."
+msgstr ""
+
+#: ../options.php:21
+msgid "Please try again. Activation was not successful."
+msgstr ""
+
+#: ../options.php:23
+msgid "Hello"
+msgstr ""
+
+#: ../options.php:25
+msgid "Verified!"
+msgstr ""
+
+#: ../options.php:25
+msgid "Click"
+msgstr ""
+
+#: ../options.php:26
+msgid "here"
+msgstr ""
+
+#: ../options.php:27
+msgid "to change the account associated with"
+msgstr ""
+
+#: ../options.php:37
+msgid "After you verify your account you can access additional settings."
+msgstr ""
+
+#: ../options.php:38
+msgid "Allocate Barc to a <b>specific page?</b>"
+msgstr ""
+
+#: ../options.php:44
+msgid "Please select"
+msgstr ""
+
+#: ../options.php:45
+msgid "Replace commenting area"
+msgstr ""
+
+#: ../options.php:56
+msgid "Configure your other <b>Settings</b> with Barc:"
+msgstr ""
+
+#: ../options.php:67
+msgid ""
+"Placeholder! Something to describe the difference in how these settings "
+"affect Barc on the viewer's wordpress site."
+msgstr ""
+
+#: ../options.php:69
+msgid "Buy <span>Barc Premium</span> to unlock additional options:"
+msgstr ""
+
+#: ../options.php:72
+msgid "Additional Moderators"
+msgstr ""
+
+#: ../options.php:75
+msgid "Guest Input Control"
+msgstr ""
+
+#: ../options.php:78
+msgid "Tab Control"
+msgstr ""
+
+#: ../options.php:81
+msgid "User Banning"
+msgstr ""
+
+#: ../options.php:87
+msgid "mo"
+msgstr ""
+
+#: ../options.php:89 ../options.php:97
+msgid "Unlocked"
+msgstr ""
+
+#: ../options.php:95
+msgid "yr"
+msgstr ""
+
+#: ../options.php:99
+msgid "Unlock!"
+msgstr ""
+
+#: ../options.php:107
+msgid "RATE OUR PLUGIN"
+msgstr ""
+
+#: ../options.php:110
+#, php-format
+msgid "Please rate our plugin if you have time by clicking %shere%s!"
+msgstr ""
